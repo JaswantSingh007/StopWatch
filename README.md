@@ -1,9 +1,7 @@
-<<<<<<< HEAD
 =======
 # StopWatch
 Coding Ninjas Skill Test
 
->>>>>>> f584e556a845fde8096d01c920e490416aa95ca7
 Stopwatch maintains a simple stopwatch functionality. 
 Features:
 
